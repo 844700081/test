@@ -12,3 +12,4 @@ add test add and commit
 add a
 
 create a new branch
+Creating a new branch is quick & simple
